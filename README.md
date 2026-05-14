@@ -20,3 +20,7 @@ I am currently pursuing my M.S. in Data Science at Florida State University, gra
 - Building data science projects
 - Expanding my Github portfolio
 - Preparing for full-time data science roles
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidan-barnett-5b44b9275/)
